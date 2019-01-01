@@ -20,6 +20,9 @@ Pros:
 * free subtask feature
 * can open _note_ in separate window
 
+Cons:
+* I didn't like the GUI or choice of backgrounds
+
 ### Todoist 
 [Todoist](https://todoist.com/?lang=en)
 Todoist lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind along the way.

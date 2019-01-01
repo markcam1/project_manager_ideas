@@ -9,19 +9,22 @@
 * Project manager can’t fix broken sponsor/bad projects
 * PM must understand the value stream
 * trained to initiate  plan and close projects successfully
-* 
 
+Types of project managers:
+party planner - check the boxes, run through the list
+sleeves up - get it done types 
 
+* A PM is accountable
 
 
 project management triangle
 
-       time
-      /    \ 
-     /      \  
-    / quality\
-   /           \
-cost/---------  \scope
+          Time
+        /      \ 
+       /        \  
+      / Quality  \
+     /            \
+Cost/ ---------    \Scope
 
 
 ---
